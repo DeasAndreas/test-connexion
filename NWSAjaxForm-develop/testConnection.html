@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>Form on the beach - And AJAX far, far away...</title>
-    <script type="text/javascript" src="./script.js"></script>
+    <script type="text/javascript" src="./testconnetcion.js"></script>
 </head>
-<body>
+<body onload="testConnection()">
 <form action="traitement.php" method="post">
     <div>
         <label for="nom">Nom : </label>
@@ -23,7 +23,7 @@
         <label for="mdp">Nom : </label>
         <input type="password" id="mdp" name="mdp" />
     </div>
-    <h1 ondblclick="validerForm()">Envoyer !!!</h1>
+    <h1 ondblclick="testConnection()">Envoyer !!!</h1>
 </form>
 </body>
 </html>
