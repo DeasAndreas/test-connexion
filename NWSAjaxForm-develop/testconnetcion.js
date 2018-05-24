@@ -1,4 +1,8 @@
-function  testConnection() {
+
+
+
+
+function  testConnection {
     let nom = document.data.nom.value;
     let prenom = document.data.prenom.value;
     let mail = document.data.mail.value;
@@ -9,9 +13,12 @@ function  testConnection() {
         xhr.open("POST", "traitement.php", true);
         xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
 
-        xhr.onreadystatechange = function() {
+
+        xhr.addEventListener("readystatechange", onreadystatechange, false);
+
+        xhr.onreadystatechange = function onreadystatechange(e) {
             if(xhr.readyState == 4) {
-                if (xhr.status >= 1 && xhr.status < 599) {
+                if (xhr.status >= 200 && xhr.status < 304) {
                     console.log("connexion!");
                 }
             }

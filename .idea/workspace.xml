@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="679a8248-2e4c-46ff-a517-945c08c8d8ed" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NWSAjaxForm-develop/testConnection.html" beforeDir="false" afterPath="$PROJECT_DIR$/NWSAjaxForm-develop/testConnection.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NWSAjaxForm-develop/testconnetcion.js" beforeDir="false" afterPath="$PROJECT_DIR$/NWSAjaxForm-develop/testconnetcion.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,8 +19,8 @@
       <file leaf-file-name="testconnetcion.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NWSAjaxForm-develop/testconnetcion.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+            <state relative-caret-position="384">
+              <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -123,12 +121,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527152688233</updated>
-      <workItem from="1527152689737" duration="2243000" />
+      <workItem from="1527152689737" duration="2699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2243000" />
+    <option name="totallyTimeSpent" value="2699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1132" extended-state="0" />
@@ -192,8 +190,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NWSAjaxForm-develop/testconnetcion.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+        <state relative-caret-position="384">
+          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
         </state>
       </provider>
     </entry>
